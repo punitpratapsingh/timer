@@ -1,0 +1,15 @@
+{
+  "name": "timer",
+  "version": "1.0.0",
+  "description": "for show remaining time",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "punit",
+  "license": "ISC",
+  "dependencies": {
+    "crone": "0.0.1",
+    "moment": "^2.22.2"
+  }
+}
